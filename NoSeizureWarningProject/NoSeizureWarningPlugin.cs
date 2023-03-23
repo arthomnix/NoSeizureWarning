@@ -6,7 +6,7 @@ using SpaceWarp.API.Mods;
 namespace NoSeizureWarning;
 
 [BepInPlugin(MyPluginInfo.PLUGIN_GUID, MyPluginInfo.PLUGIN_NAME, MyPluginInfo.PLUGIN_VERSION)]
-[BepInDependency(SpaceWarpPlugin.ModGuid, SpaceWarpPlugin.ModVer)]
+[BepInDependency(SpaceWarpPlugin.ModGuid, "1.0.0")]
 public class NoSeizureWarningPlugin : BaseSpaceWarpPlugin
 {
     // These are useful in case some other mod wants to add a dependency to this one
