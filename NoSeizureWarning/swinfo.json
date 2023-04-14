@@ -4,7 +4,7 @@
   "name": "No Seizure Warning",
   "description": "Disables the game's seizure warning splash screen",
   "source": "https://github.com/arthomnix/NoSeizureWarning",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "version_check": "",
   "dependencies": [
     {
@@ -16,7 +16,7 @@
     }
   ],
   "ksp2_version": {
-    "min": "0.1.1",
+    "min": "0.1.2",
     "max": "*"
   }
 }
